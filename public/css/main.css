@@ -1,0 +1,121 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: normal;
+    background: #f8f9fd;
+    color: gray;
+}
+#main{
+    /* border: solid black 1px; */
+    width: 30%;
+    height: 55vh;
+    margin-top: 70px;
+    margin-left: 150px;
+    background-color: white;
+
+}
+
+#logo{
+    /* border: 1px solid; */
+    position: relative;
+    top: 35px;
+    bottom: 30px;
+    left: 20px;
+    right: 150px;
+    width: 50px;
+    height: 50px;
+    /* margin-top: 30px; */
+    margin-left: 150px;
+    display: block;
+    border-radius: 50px;
+    color: #8d4488;
+    background-color: #8d4488;
+}
+
+.form-control1{
+    display: block;
+    width: 300px;
+    height: 5vh;
+    padding: 6px ;
+    margin-top: 20px;
+    margin-left: 35px;
+    background: #0000000d;
+    border: none;
+    border-radius: 3px;
+    
+}
+.form-control2{
+    display: block;
+    width: 300px;
+    height: 5vh;
+    padding: 6px ;
+    margin-top: 15px;
+    margin-left: 35px;
+    background: #0000000d;
+    border: none;
+    border-radius: 3px;
+}
+
+
+#text1{
+    font-weight: bolder;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    text-align: center;
+
+} 
+
+
+
+#rem{
+    
+    margin-top: 80px;
+    padding: 2px;
+    font-weight: bolder;
+    font-size: small;
+    
+}
+
+#checkbox1{
+    margin-top: 10px;
+    margin-left: 35px ;
+    color: #0000000d;
+    background-color: #0000000d;
+    border: none;
+       
+}
+
+
+
+#forgot-password{
+    margin-top: 50px;
+    padding: 2px;
+    font-weight: bolder;
+    font-size: small;
+    margin-left: 83px;
+    
+    
+}
+
+#button{
+    text-align: center;
+    font-size: small;
+    display: block;
+    width: 300px;
+    height: 5vh;
+    padding: 10px;
+    margin-left: 33px ;
+    margin-top: 50px;
+    color: white;
+    background:#8d4488 ;
+    border: none;
+    border-radius: 3px;
+}
+
